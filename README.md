@@ -1,2 +1,2 @@
 # RCRP
-Перенапровляет на [http://romanin.fvds.ru/rcr/wordpress/](сайт)
+Перенапровляет на [сайт](http://romanin.fvds.ru/rcr/wordpress/)
